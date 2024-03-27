@@ -1,0 +1,11 @@
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.AssemblyInfoInputs.cache
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.AssemblyInfo.cs
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.csproj.CoreCompileInputs.cache
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\bin\Debug\net8.0\247Locacao.Domain.deps.json
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\bin\Debug\net8.0\247Locacao.Domain.dll
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\bin\Debug\net8.0\247Locacao.Domain.pdb
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.dll
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\refint\247Locacao.Domain.dll
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\247Locacao.Domain.pdb
+C:\Central\Dev\Inovam\247LocacaoSolution\247Locacao.Domain\obj\Debug\net8.0\ref\247Locacao.Domain.dll

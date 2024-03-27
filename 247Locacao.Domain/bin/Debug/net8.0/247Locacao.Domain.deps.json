@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "247Locacao.Domain/1.0.0": {
+        "runtime": {
+          "247Locacao.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "247Locacao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

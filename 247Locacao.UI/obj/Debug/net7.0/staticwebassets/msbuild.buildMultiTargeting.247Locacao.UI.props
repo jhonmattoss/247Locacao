@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\247Locacao.UI.props" />
+</Project>

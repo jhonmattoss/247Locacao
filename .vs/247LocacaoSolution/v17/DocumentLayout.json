@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\businessregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\businessregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\entities\\dicionariodedados\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\entities\\dicionariodedados\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\entities\\dicionariodedados\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\entities\\dicionariodedados\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\verylongdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\verylongdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\timetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\timetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\shortdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\shortdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\selectiondescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\selectiondescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\postalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\postalcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\percentagerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\percentagerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\multiplicationfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\multiplicationfactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\longdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\longdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\integervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\integervalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\ibaseproprietarytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\ibaseproprietarytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\genericdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\genericdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\extremelylongdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\extremelylongdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\ean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\ean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|c:\\central\\dev\\inovam\\247locacaosolution\\247locacao.domain\\types\\domainimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF7C744-CBD5-487A-9617-D942ECC3A50C}|247Locacao.Domain\\247Locacao.Domain.csproj|solutionrelative:247locacao.domain\\types\\domainimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Entities\\DicionarioDeDados\\Category.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Entities\\DicionarioDeDados\\Category.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Entities\\DicionarioDeDados\\Category.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Entities\\DicionarioDeDados\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:43:46.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Entities\\DicionarioDeDados\\User.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Entities\\DicionarioDeDados\\User.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Entities\\DicionarioDeDados\\User.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Entities\\DicionarioDeDados\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:59:29.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeryLongDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\VeryLongDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\VeryLongDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\VeryLongDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\VeryLongDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:44:51.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeType.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\TimeType.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\TimeType.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\TimeType.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\TimeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:44:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShortDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\ShortDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\ShortDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\ShortDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\ShortDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:44:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessRegistration.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\BusinessRegistration.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\BusinessRegistration.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\BusinessRegistration.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\BusinessRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:40:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectionDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\SelectionDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\SelectionDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\SelectionDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\SelectionDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:44:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PercentageRate.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\PercentageRate.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\PercentageRate.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\PercentageRate.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\PercentageRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:44:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiplicationFactor.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\MultiplicationFactor.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\MultiplicationFactor.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\MultiplicationFactor.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\MultiplicationFactor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:43:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\GenericDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\GenericDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\GenericDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\GenericDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:42:52.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExtremelyLongDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\ExtremelyLongDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\ExtremelyLongDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\ExtremelyLongDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\ExtremelyLongDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:42:45.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBaseProprietaryType.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\IBaseProprietaryType.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\IBaseProprietaryType.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\IBaseProprietaryType.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\IBaseProprietaryType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:36:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostalCode.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\PostalCode.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\PostalCode.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\PostalCode.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\PostalCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:33:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EAN.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\EAN.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\EAN.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\EAN.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\EAN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:42:36.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IntegerValue.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\IntegerValue.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\IntegerValue.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\IntegerValue.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\IntegerValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:26:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LongDescription.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\LongDescription.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\LongDescription.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\LongDescription.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\LongDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:27:15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DomainImage.cs",
+              "DocumentMoniker": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\DomainImage.cs",
+              "RelativeDocumentMoniker": "247Locacao.Domain\\Types\\DomainImage.cs",
+              "ToolTip": "C:\\Central\\Dev\\Inovam\\247LocacaoSolution\\247Locacao.Domain\\Types\\DomainImage.cs",
+              "RelativeToolTip": "247Locacao.Domain\\Types\\DomainImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:42:09.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
